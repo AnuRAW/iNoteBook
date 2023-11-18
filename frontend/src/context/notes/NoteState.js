@@ -3,7 +3,7 @@ import { useState } from 'react';
 
 const NoteState = (props) => {
 
-    const host = "https://inotebook-backend-kr4e.onrender.com"
+    const host = "http://localhost:5000"
 
     const initialNotes = [];
 
